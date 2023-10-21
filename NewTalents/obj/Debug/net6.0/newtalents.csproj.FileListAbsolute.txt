@@ -1,0 +1,15 @@
+E:\workspace\bootcamp\bootcamp-wex\trilha-tdd\newtalents\bin\Debug\net6.0\newtalents.exe
+E:\workspace\bootcamp\bootcamp-wex\trilha-tdd\newtalents\bin\Debug\net6.0\newtalents.deps.json
+E:\workspace\bootcamp\bootcamp-wex\trilha-tdd\newtalents\bin\Debug\net6.0\newtalents.runtimeconfig.json
+E:\workspace\bootcamp\bootcamp-wex\trilha-tdd\newtalents\bin\Debug\net6.0\newtalents.dll
+E:\workspace\bootcamp\bootcamp-wex\trilha-tdd\newtalents\bin\Debug\net6.0\newtalents.pdb
+E:\workspace\bootcamp\bootcamp-wex\trilha-tdd\newtalents\obj\Debug\net6.0\newtalents.csproj.AssemblyReference.cache
+E:\workspace\bootcamp\bootcamp-wex\trilha-tdd\newtalents\obj\Debug\net6.0\newtalents.GeneratedMSBuildEditorConfig.editorconfig
+E:\workspace\bootcamp\bootcamp-wex\trilha-tdd\newtalents\obj\Debug\net6.0\newtalents.AssemblyInfoInputs.cache
+E:\workspace\bootcamp\bootcamp-wex\trilha-tdd\newtalents\obj\Debug\net6.0\newtalents.AssemblyInfo.cs
+E:\workspace\bootcamp\bootcamp-wex\trilha-tdd\newtalents\obj\Debug\net6.0\newtalents.csproj.CoreCompileInputs.cache
+E:\workspace\bootcamp\bootcamp-wex\trilha-tdd\newtalents\obj\Debug\net6.0\newtalents.dll
+E:\workspace\bootcamp\bootcamp-wex\trilha-tdd\newtalents\obj\Debug\net6.0\refint\newtalents.dll
+E:\workspace\bootcamp\bootcamp-wex\trilha-tdd\newtalents\obj\Debug\net6.0\newtalents.pdb
+E:\workspace\bootcamp\bootcamp-wex\trilha-tdd\newtalents\obj\Debug\net6.0\newtalents.genruntimeconfig.cache
+E:\workspace\bootcamp\bootcamp-wex\trilha-tdd\newtalents\obj\Debug\net6.0\ref\newtalents.dll
