@@ -11,11 +11,13 @@ namespace NewTalents.Services
         }
         public int subtrair(int val1, int val2)
         {
-           return 0;
+           int res = val1 - val2;
+           return res;
         }
         public int multiplicar(int val1, int val2)
         {
-           return 0;
+           int res = val1 * val2;
+           return res;
         }
         public int dividir(int val1, int val2)
         {
