@@ -61,4 +61,28 @@ public class UnitTest1
 
         Assert.Equal(resultado, resultadoCalculadora);
     }
+
+    [Fact]
+    public void TestarDivisaoPorZero()
+    {
+        Calculadora calc = new Calculadora();
+
+        Assert.Throws<DivideByZeroException>(() => calc.dividir(3,0));
+    }
+    
+    [Fact]
+    public void TestarHistorico()
+    {
+        Calculadora calc = new Calculadora();
+
+        calc.somar(1, 2);
+        calc.somar(2, 8);
+        calc.somar(3, 7);
+        calc.somar(4, 1);
+
+        var lista = calc.historico();
+
+        Assert.NotEmpty(lista);
+        Assert.Equal(3, lista.Count);
+    }
 }   
