@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "/e6qw5C6rp+4MellPVWr4n1l6MHfNE5Yj3Dj5Wp4bskmqz/BxZ3ejzLqQ1zh1xT0O5lzzAGHOIDmZGKTDjOs5g==",
+  "dgSpecHash": "xWs2zOybMj5VrL4AVDwZ0Vz+COWwCNPMSaTnWJbqGAq4uIm9teEgorJ4Oy8pprPW2mipls3/VGeWCxSvUMUEeA==",
   "success": true,
-  "projectFilePath": "E:\\workspace\\bootcamp\\bootcamp-wex\\trilha-tdd\\testNewTalents\\testNewTalents.csproj",
+  "projectFilePath": "E:\\workspace\\bootcamp\\bootcamp-wex\\trilha-tdd\\testnewTalents\\testNewTalents.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Robelio\\.nuget\\packages\\coverlet.collector\\3.1.2\\coverlet.collector.3.1.2.nupkg.sha512",
     "C:\\Users\\Robelio\\.nuget\\packages\\microsoft.codecoverage\\17.1.0\\microsoft.codecoverage.17.1.0.nupkg.sha512",

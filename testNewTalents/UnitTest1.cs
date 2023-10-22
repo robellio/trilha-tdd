@@ -5,6 +5,14 @@ namespace testNewTalents;
 
 public class UnitTest1
 {
+    public Calculadora construirClasse()
+    {
+        string data = "20/02/2023";
+        Calculadora calc = new Calculadora("20/02/2023");
+
+        return calc;
+    }
+
     [Theory]
     [InlineData (1, 2, 3)]
     [InlineData (4, 5, 9)]
@@ -14,7 +22,7 @@ public class UnitTest1
     [InlineData (2, 3, 5)]
     public void TesteSomar(int val1, int val2, int resultado)
     {
-        Calculadora  calc = new Calculadora();
+        Calculadora  calc = construirClasse();
         
         int resultadoCalculadora = calc.somar(val1, val2);
 
@@ -29,7 +37,7 @@ public class UnitTest1
     [InlineData (2, 5, 10)]
     public void TesteMultiplicar(int val1, int val2, int resultado)
     {
-        Calculadora calc = new Calculadora();
+        Calculadora calc = construirClasse();
         
         int resultadoCalculadora = calc.multiplicar(val1, val2);
 
@@ -43,7 +51,7 @@ public class UnitTest1
     [InlineData (9, 3, 3)]
     public void TesteDividir(int val1, int val2, int resultado)
     {
-        Calculadora calc = new Calculadora();
+        Calculadora calc = construirClasse();
         
         int resultadoCalculadora = calc.dividir(val1, val2);
 
@@ -55,7 +63,7 @@ public class UnitTest1
     [InlineData (5, 5, 0)]
     public void TesteSubtrair(int val1, int val2, int resultado)
     {
-        Calculadora calc = new Calculadora();
+        Calculadora calc = construirClasse();
         
         int resultadoCalculadora = calc.subtrair(val1, val2);
 
@@ -65,7 +73,7 @@ public class UnitTest1
     [Fact]
     public void TestarDivisaoPorZero()
     {
-        Calculadora calc = new Calculadora();
+        Calculadora calc = construirClasse();
 
         Assert.Throws<DivideByZeroException>(() => calc.dividir(3,0));
     }
@@ -73,7 +81,7 @@ public class UnitTest1
     [Fact]
     public void TestarHistorico()
     {
-        Calculadora calc = new Calculadora();
+        Calculadora calc = construirClasse();
 
         calc.somar(1, 2);
         calc.somar(2, 8);

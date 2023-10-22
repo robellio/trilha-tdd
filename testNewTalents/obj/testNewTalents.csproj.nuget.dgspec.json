@@ -1,7 +1,7 @@
 {
   "format": 1,
   "restore": {
-    "E:\\workspace\\bootcamp\\bootcamp-wex\\trilha-tdd\\testNewTalents\\testNewTalents.csproj": {}
+    "E:\\workspace\\bootcamp\\bootcamp-wex\\trilha-tdd\\testnewTalents\\testNewTalents.csproj": {}
   },
   "projects": {
     "E:\\workspace\\bootcamp\\bootcamp-wex\\trilha-tdd\\NewTalents\\newtalents.csproj": {
@@ -57,14 +57,14 @@
         }
       }
     },
-    "E:\\workspace\\bootcamp\\bootcamp-wex\\trilha-tdd\\testNewTalents\\testNewTalents.csproj": {
+    "E:\\workspace\\bootcamp\\bootcamp-wex\\trilha-tdd\\testnewTalents\\testNewTalents.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\workspace\\bootcamp\\bootcamp-wex\\trilha-tdd\\testNewTalents\\testNewTalents.csproj",
+        "projectUniqueName": "E:\\workspace\\bootcamp\\bootcamp-wex\\trilha-tdd\\testnewTalents\\testNewTalents.csproj",
         "projectName": "testNewTalents",
-        "projectPath": "E:\\workspace\\bootcamp\\bootcamp-wex\\trilha-tdd\\testNewTalents\\testNewTalents.csproj",
+        "projectPath": "E:\\workspace\\bootcamp\\bootcamp-wex\\trilha-tdd\\testnewTalents\\testNewTalents.csproj",
         "packagesPath": "C:\\Users\\Robelio\\.nuget\\packages\\",
-        "outputPath": "E:\\workspace\\bootcamp\\bootcamp-wex\\trilha-tdd\\testNewTalents\\obj\\",
+        "outputPath": "E:\\workspace\\bootcamp\\bootcamp-wex\\trilha-tdd\\testnewTalents\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Robelio\\AppData\\Roaming\\NuGet\\NuGet.Config"
