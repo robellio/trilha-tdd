@@ -26,7 +26,7 @@ os testes.
 <p>
 O método TesteSomar presente no arquivo de teste verifica a operação de adição na classe Calculadora e caso o esperado não seja alcançado
 o teste vai falhar. 
-O teste faz um comparação apartir dos valores passados e verifica se tanto o arquivo de teste quanto o método implementado na classe calculadora correspondem ao esperado.
+O teste faz um comparação a partir dos valores passados e verifica se tanto o arquivo de teste quanto o método implementado na classe calculadora correspondem ao esperado.
 </p>
 
 ## TesteMultiplicar
